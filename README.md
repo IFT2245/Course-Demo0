@@ -12,4 +12,6 @@ Instructions pour compiler (et exécuter) en CLion:
 
 >Create project using "CMakeLists.txt"
 
->ARGUMENT in "Edit Configurations" -> "Program arguments"
+>Set ARGUMENT in "Edit Configurations" -> "Program arguments"
+
+>Run demo0
